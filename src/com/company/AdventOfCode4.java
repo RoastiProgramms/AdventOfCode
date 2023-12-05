@@ -26,7 +26,6 @@ public class AdventOfCode4 {
             HashSet<Integer> leftset=new HashSet<>();
             for (String num:left)
             {
-
                 leftset.add(Integer.parseInt(num));
             }
             for(String num:right)
